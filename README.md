@@ -1,5 +1,5 @@
 # huescript.py
-A simple python script to use the Philips Hue API in order to check and change your lights' status.
+A simple python script to use the Philips Hue API in order to check and change your lights' state.
 
 # What for?
 This script is intended to retrieve your Philips Hue data and then change a selected light's state.
@@ -34,7 +34,7 @@ The rest is pretty straightforward, you have to  replace the variables in **brid
 
 Upon executing the script, you can see a similar message appear in your console:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73818280/229364527-2c8b518e-6911-4344-a284-2de549c889a5.png">
+<img src="https://user-images.githubusercontent.com/73818280/229510527-25cace98-dc0c-4d14-99a8-de7ea2ba8136.png">
 </p>
 <p align="center">Fig. 4: Console logs after the first execution</p>
 
